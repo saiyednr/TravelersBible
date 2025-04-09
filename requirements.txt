@@ -7,3 +7,4 @@ random2
 google_auth_oauthlib
 whitenoise
 pillow
+pip freeze > requirements.txt
